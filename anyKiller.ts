@@ -24,7 +24,7 @@ var serializedInfo:any={
         age:28,
         isMarried:false,
         bRef:{
-            bTitle:"Oskol"
+            bTitle:"Ostad"
             ,cRef:{
                 isAlive:false
             }
@@ -33,7 +33,7 @@ var serializedInfo:any={
         // child_A2:"1",
         a1_Child:2,
         // a2_Child:"2",
-        bTitle:"Oskol"
+        bTitle:"Ostad"
         ,cRef:{
             isAlive:"false"
         },
